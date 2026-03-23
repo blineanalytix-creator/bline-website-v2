@@ -1,0 +1,4 @@
+# PDF-bezogene Dateien (zu groß für GitHub Pages, werden auf Strato direkt deployed)
+pdfs/
+assets/PDFViewer-*.js
+assets/pdf.worker.min-*.mjs
